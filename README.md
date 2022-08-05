@@ -1,2 +1,2 @@
-# nyoba-dulu
-repo ini aku gunakan untuk belajar dari tutorial bagaimana cara menggunakan github
+# Kumpulan source code javascript
+repo ini aku untuk belajar javascript
